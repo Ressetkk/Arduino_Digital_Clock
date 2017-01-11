@@ -1,2 +1,8 @@
 # DS_store
 *.DS_Store*
+
+# docs images duplications and PSD files
+Docs/JPG
+Docs/PSD
+Docs/build
+# Docs/Makefile
